@@ -35,3 +35,4 @@ function
 <H6>wordwrap</H6>
 <H6>utf8_decode</H6>
 <H6>utf8_encode</H6>
+![screencapture-localhost-php-string-function-2024-12-11-15_29_09](https://github.com/user-attachments/assets/de7c28f0-f0fb-4f63-9886-ba4e3cb49263)
